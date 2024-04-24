@@ -42,9 +42,6 @@ In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 
-![Screenshot 2024-04-24 082036](https://github.com/Narasimhan05/ARP-Attack-and-Network-Sniffing/assets/132819871/bec4b6b6-6f9c-40ca-a301-734ed4065cb7)
-
-
 Invoke the wireshark and examine the various menus  and controls of the tool:
 ![Screenshot 2024-04-24 082016](https://github.com/Narasimhan05/ARP-Attack-and-Network-Sniffing/assets/132819871/a00b16cb-12c9-4ae3-8668-82f2459476d0)
 
